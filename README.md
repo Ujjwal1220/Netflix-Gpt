@@ -7,6 +7,11 @@
 
 # 1 Netflix login page/Sign Up Page
 
+--Login Page
+-Email address
+-Password
+-Sign in (button)
+
 -Redirect to Browse Page
 
 # 2-Browse(After authentication)
